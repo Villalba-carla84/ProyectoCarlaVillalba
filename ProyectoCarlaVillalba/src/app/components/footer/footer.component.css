@@ -1,0 +1,12 @@
+.row{
+background-color: #b17575b5;
+
+}
+footer{
+    color: rgb(26, 29, 28);
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px 5px blanchedalmond;
+}

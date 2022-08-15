@@ -15,11 +15,11 @@ div{
 {
     #foto{
         position: absolute;
-        width: 30%;
+        width: 20%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 25%;
-        top: 135%;
+        top: 150%;
    
 }}
 /*formato de foto de perfil en tamaño de 0 a 575*/
@@ -31,5 +31,5 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 30%;
-        top: 135%;
+        top:950px;
 }}

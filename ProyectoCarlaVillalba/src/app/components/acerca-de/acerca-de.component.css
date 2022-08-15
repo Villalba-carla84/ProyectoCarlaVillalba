@@ -14,12 +14,12 @@ div{
 @media(min-width:576px)
 {
     #foto{
-    position: absolute;
-    width: 15%;
-    border-radius: 100%;
-    box-shadow: 3px 3px 3px grey;
-    left: 2%;
-    top: 1550px;;
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 25%;
+        top: 135%;
    
 }}
 /*formato de foto de perfil en tamaño de 0 a 575*/
@@ -27,10 +27,9 @@ div{
 {
     #foto{
         position: absolute;
-    width: 45%;
-    border-radius: 100%;
-    box-shadow: 3px 3px 3px grey;
-    left: 25%;
-    top: 600%;
-   
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 30%;
+        top: 135%;
 }}
